@@ -25,4 +25,36 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Arihant123455/dsa-practice/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
