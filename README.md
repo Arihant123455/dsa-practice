@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arihant123455/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arihant123455/dsa-practice/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -28,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arihant123455/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
