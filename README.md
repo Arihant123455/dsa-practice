@@ -35,6 +35,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arihant123455/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Arihant123455/dsa-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arihant123455/dsa-practice/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Arihant123455/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arihant123455/dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
