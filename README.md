@@ -42,6 +42,7 @@
 | [0075-sort-colors](https://github.com/Arihant123455/dsa-practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arihant123455/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Arihant123455/dsa-practice/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Arihant123455/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Arihant123455/dsa-practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arihant123455/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arihant123455/dsa-practice/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Arihant123455/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arihant123455/dsa-practice/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Arihant123455/dsa-practice/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
