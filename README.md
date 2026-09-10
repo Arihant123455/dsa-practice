@@ -9,6 +9,7 @@
 | [0125-valid-palindrome](https://github.com/Arihant123455/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Arihant123455/dsa-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arihant123455/dsa-practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Arihant123455/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arihant123455/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -44,6 +45,7 @@
 | [0189-rotate-array](https://github.com/Arihant123455/dsa-practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Arihant123455/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Arihant123455/dsa-practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Arihant123455/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Arihant123455/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arihant123455/dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -58,6 +60,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Arihant123455/dsa-practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Arihant123455/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Arihant123455/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/Arihant123455/dsa-practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -84,6 +87,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arihant123455/dsa-practice/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Arihant123455/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Arihant123455/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Quicksort
 |  |
 | ------- |
@@ -96,4 +100,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arihant123455/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Arihant123455/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
